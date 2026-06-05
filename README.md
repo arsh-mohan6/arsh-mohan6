@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Arsh Mohan 👋
 
-<!--
-**arsh-mohan6/arsh-mohan6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Enthusiast | Deep Learning | NLP | Computer Vision
 
-Here are some ideas to get you started:
+Currently building intelligent systems using Python, PyTorch and TensorFlow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Attention-Based BiLSTM for Emotion Detection
+- Multi-class emotion classification
+- Attention mechanism with BiLSTM
+- NLP preprocessing pipeline
+
+### 🤟 Sign Language Detection
+- Real-time sign recognition
+- OpenCV + Deep Learning
+- Computer Vision project
+
+### 📧 Spam Email Detection
+- Text classification system
+- TF-IDF + Machine Learning
+- End-to-end prediction pipeline
+
+### 🎙️ Speech Emotion Recognition (DRDO)
+- Mel Spectrogram + MFCC Features
+- CNN + BiLSTM Architecture
+- Cross-dataset evaluation
+
+---
+
+## 🛠️ Tech Stack
+
+Python • PyTorch • TensorFlow • OpenCV • Scikit-Learn • NLP • Deep Learning • Git
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: [Your LinkedIn]
+
+Email: [Your Email]
