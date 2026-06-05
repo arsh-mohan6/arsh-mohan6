@@ -76,130 +76,189 @@ I enjoy transforming research ideas into practical AI applications and continuou
 
 ---
 
-# Portfolio
+## 🌐 Portfolio
 
 <p align="center">
-
 <a href="https://arshmohannishantportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Visit%20Portfolio-6C63FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚀_Visit_Portfolio-6C63FF?style=for-the-badge">
 </a>
-
 </p>
 
 <p align="center">
-AI Engineer • Deep Learning Enthusiast • Machine Learning Research
+<b>AI Engineer</b> • <b>Deep Learning Enthusiast</b> • <b>Machine Learning Researcher</b>
 </p>
 
 <p align="center">
-Live Projects • Research Work • Technical Portfolio • Contact
+📂 Live Projects • 📑 Research Work • 💼 Experience • 📬 Contact
 </p>
-
 ---
 
 # Featured Projects
 
 ## 📧 Spam Email Detection System
 
-Built on the Enron Dataset containing **33,716 emails**.
+<p>
+Enron Dataset • 33,716 Emails • DOI Indexed Publication
+</p>
 
 ### Highlights
 
-- SVM achieved **99.91% Accuracy**
-- **100% Recall** on spam detection
-- Interactive Streamlit deployment
-- DOI-indexed technical report published on Zenodo
+ 99.91% Accuracy
 
-### Tech
+ 100% Recall
 
-Python • Scikit-Learn • NLTK • Pandas
+ Streamlit Deployment
 
-🔗 Repo: https://github.com/arsh-mohan6/SPAM-EMAIL-DETECTION
+ Zenodo Published Report
+
+### Tech Stack
+
+`Python` `Scikit-Learn` `NLTK` `Pandas`
+
+<p>
+
+<a href="https://github.com/arsh-mohan6/SPAM-EMAIL-DETECTION">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://ai-spam-shield.streamlit.app/#analyze-email">
+<img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+</a>
+
+<a href="https://zenodo.org/records/19686026">
+<img src="https://img.shields.io/badge/Zenodo_Report-0056D2?style=for-the-badge">
+</a>
+
+</p>
 
 ---
 
 ## 🧠 Attention-Based BiLSTM Emotion Detection
 
-Emotion classification using a Twitter Emotion Dataset containing **416,809 samples**.
+<p>
+Twitter Emotion Dataset • 416K+ Samples • 6 Emotion Classes
+</p>
 
 ### Highlights
 
-- BiLSTM Architecture
-- Attention Mechanism
-- 6-Class Emotion Classification
-- Achieved **93.59% Test Accuracy**
+ Attention Mechanism + BiLSTM
 
-### Tech
+ Advanced NLP Pipeline
 
-TensorFlow • Keras • NLP • Deep Learning
+ Multi-Class Emotion Classification
 
-🔗 Repo: https://github.com/arsh-mohan6/Attention_Based-BiLSTM-for-Emotion-Detection_SocialMediaText
+ 93.59% Test Accuracy
 
+### Tech Stack
+
+`TensorFlow` `Keras` `NLP` `Deep Learning`
+
+<p>
+<a href="https://github.com/arsh-mohan6/Attention_Based-BiLSTM-for-Emotion-Detection_SocialMediaText">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github">
+</a>
+</p>
 ---
 
 ## 🤟 Real-Time Sign Language Recognition
 
-CNN-based sign language recognition system.
-
 ### Highlights
 
-- Custom dataset (~2400 images)
-- Real-Time Prediction
-- MediaPipe Hand Tracking
-- OpenCV Integration
-- ~94% Validation Accuracy
+ CNN-Based Classification
 
-### Tech
+ MediaPipe Hand Tracking
 
-TensorFlow • OpenCV • MediaPipe • CNN
+ OpenCV Integration
 
-🔗 Repo: https://github.com/arsh-mohan6/Sign-Language-Detection
+ ~94% Validation Accuracy
+
+### Tech Stack
+
+`TensorFlow` `OpenCV` `MediaPipe`
+
+<p>
+<a href="https://github.com/arsh-mohan6/Sign-Language-Detection">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github">
+</a>
+</p>
 
 ---
 
 ## 🏠 House Price Prediction
 
-Machine Learning regression pipeline using the Ames Housing Dataset.
+<p>
+Ames Housing Dataset • 1,460 Properties • 81 Features
+</p>
 
 ### Highlights
 
-- 1460 Properties
-- 81 Features
+ End-to-End ML Pipeline
+
+ Data Cleaning & Feature Engineering
+
+ Comparative Model Evaluation
+
+ Best Model: Random Forest Regressor
+
+ Achieved **R² Score of 0.89**
+
+### Techniques Used
+
+- Missing Value Handling
+- One-Hot Encoding
 - Feature Engineering
+- Hyperparameter Tuning
 - Model Comparison
-- Best R² Score: **0.89**
 
-### Tech
+### Models Evaluated
 
-Scikit-Learn • Pandas • NumPy • Machine Learning
+`Linear Regression`
+`Ridge Regression`
+`Decision Tree`
+`Random Forest`
 
-🔗 Repo: https://github.com/arsh-mohan6/House-Price-Prediction
+### Tech Stack
+
+`Python` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib`
+
+<p>
+
+<a href="https://github.com/arsh-mohan6/House-Price-Prediction">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
 
 ---
 
 ## 🎙️ Speech Emotion Recognition (DRDO)
 
-Current Research Internship Project.
+🚧 Research Internship Project
 
 ### Datasets
 
-- RAVDESS
-- CREMA-D
-- TESS
+`RAVDESS` `CREMA-D` `TESS`
+
+### Features
+
+`MFCC` `Mel Spectrogram`
+
+### Architecture
+
+CNN → BiLSTM → Attention
+
+### Research Focus
+
+ Speaker Independent Evaluation
+
+ Cross Dataset Testing
+
+ Robust Emotion Recognition
 
 ### Features
 
 - MFCC
 - Mel Spectrogram
-
-### Architecture
-
-CNN + BiLSTM + Attention
-
-### Research Focus
-
-- Speaker-Independent Evaluation
-- Cross-Dataset Testing
-- Model Generalization
 
 🚧 Work In Progress
 
