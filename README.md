@@ -290,18 +290,24 @@ https://leetcode.com/u/arsh_mohan/
 
 # Connect With Me
 
-📧 Email: arshmohan789@gmail.com
+Email: arshmohan789@gmail.com
 
-🌐 Portfolio: https://arshmohannishantportfolio.vercel.app/
+LinkedIn: https://www.linkedin.com/in/arsh-mohan-nishant-6704222a9/
 
-💼 LinkedIn: https://www.linkedin.com/in/arsh-mohan-nishant-6704222a9/
-
-💻 GitHub: https://github.com/arsh-mohan6
-
-🧩 LeetCode: https://leetcode.com/u/arsh_mohan/
+Phone: 8052272634
 
 ---
 
 <p align="center">
 <b>"Building intelligent systems one model at a time."</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arsh-mohan6&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
 </p>
