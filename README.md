@@ -273,27 +273,11 @@ CNN → BiLSTM → Attention
 LeetCode:
 https://leetcode.com/u/arsh_mohan/
 
----
 
-# GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arsh-mohan6&show_icons=true&theme=default"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsh-mohan6&layout=compact&theme=default"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arsh-mohan6"/>
-</p>
-
----
 
 # Connect With Me
 
 Email: arshmohan789@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/arsh-mohan-nishant-6704222a9/
-
 Phone: 8052272634
 
 ---
