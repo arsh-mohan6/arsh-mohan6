@@ -1,141 +1,250 @@
-<div align="center">
+<h1 align="center">Hi, I'm Arsh Mohan Nishant 👋</h1>
 
-# Hi, I'm Arsh Mohan Nishant 👋
+<p align="center">
+<b>B.Tech CSE @ KIIT University</b> • Class of 2027 <br>
+AI/ML Engineer • Deep Learning • NLP • Computer Vision
+</p>
 
-### AI/ML Engineer • Deep Learning • NLP • Computer Vision
+<p align="center">
+<a href="https://www.linkedin.com/in/arsh-mohan-nishant-6704222a9/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-Building intelligent systems using Python, PyTorch and TensorFlow.
+<a href="mailto:arshmohan789@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/arsh-mohan6)
+<a href="https://github.com/arsh-mohan6">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a Computer Science student passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
-
-My work focuses on building intelligent systems in NLP, Speech Processing, and Computer Vision. I enjoy transforming research ideas into real-world applications and continuously exploring new advancements in AI.
-
-- 🎓 Computer Science Student
-- 🤖 Interested in AI, ML & Deep Learning
-- 🧠 Working on Speech Emotion Recognition
-- 📚 Exploring LLMs and Generative AI
-- 🚀 Open to AI/ML collaborations and research projects
+<a href="https://arshmohannishantportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+</p>
 
 ---
 
-## 🔭 Currently Working On
+# About Me
 
-- 🎙️ Speech Emotion Recognition (DRDO Internship Project)
-- 🧠 CNN + BiLSTM based Deep Learning Architectures
-- 📊 Cross-Dataset Emotion Recognition Research
-- 🤖 LLMs and Prompt Engineering
+I'm a Computer Science student passionate about Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Computer Vision.
+
+Currently working as a Research Intern at **DRDO-DEAL, Dehradun**, developing Speech Emotion Recognition systems using deep learning architectures and benchmark emotional speech datasets.
+
+I enjoy transforming research ideas into practical AI applications and continuously exploring cutting-edge advancements in machine learning.
 
 ---
 
-## 🛠️ Tech Stack
+# What I'm Working On
+
+- 🎙️ Speech Emotion Recognition (DRDO Internship)
+- 🧠 CNN + BiLSTM + Attention Architectures
+- 📊 Cross-Dataset Emotion Recognition Evaluation
+- 🤖 Exploring LLMs & Prompt Engineering
+- 🚀 Building End-to-End AI Applications
+
+---
+
+# Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### AI / ML
+### Machine Learning & AI
 
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-yellow?style=for-the-badge&logo=scikitlearn)
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)
 
 ### Data Science
 
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
 
 ---
 
-# 🚀 Featured Projects
+# Portfolio
 
-## 🧠 Attention-Based BiLSTM for Emotion Detection
+<p align="center">
 
-Multi-class emotion classification system using NLP and Deep Learning.
+<a href="https://arshmohannishantportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Visit%20Portfolio-6C63FF?style=for-the-badge">
+</a>
 
-- Attention Mechanism + BiLSTM
-- Advanced Text Preprocessing
-- Social Media Emotion Analysis
+</p>
 
-🔗 Repository: https://github.com/arsh-mohan6/Attention_Based-BiLSTM-for-Emotion-Detection_SocialMediaText
+<p align="center">
+AI Engineer • Deep Learning Enthusiast • Machine Learning Research
+</p>
+
+<p align="center">
+Live Projects • Research Work • Technical Portfolio • Contact
+</p>
 
 ---
 
-## 🤟 Sign Language Detection
+# Featured Projects
 
-Real-time sign language recognition system using Computer Vision.
+## 📧 Spam Email Detection System
 
-- OpenCV Based Detection
-- Deep Learning Pipeline
+Built on the Enron Dataset containing **33,716 emails**.
+
+### Highlights
+
+- SVM achieved **99.91% Accuracy**
+- **100% Recall** on spam detection
+- Interactive Streamlit deployment
+- DOI-indexed technical report published on Zenodo
+
+### Tech
+
+Python • Scikit-Learn • NLTK • Pandas
+
+🔗 Repo: https://github.com/arsh-mohan6/SPAM-EMAIL-DETECTION
+
+---
+
+## 🧠 Attention-Based BiLSTM Emotion Detection
+
+Emotion classification using a Twitter Emotion Dataset containing **416,809 samples**.
+
+### Highlights
+
+- BiLSTM Architecture
+- Attention Mechanism
+- 6-Class Emotion Classification
+- Achieved **93.59% Test Accuracy**
+
+### Tech
+
+TensorFlow • Keras • NLP • Deep Learning
+
+🔗 Repo: https://github.com/arsh-mohan6/Attention_Based-BiLSTM-for-Emotion-Detection_SocialMediaText
+
+---
+
+## 🤟 Real-Time Sign Language Recognition
+
+CNN-based sign language recognition system.
+
+### Highlights
+
+- Custom dataset (~2400 images)
 - Real-Time Prediction
+- MediaPipe Hand Tracking
+- OpenCV Integration
+- ~94% Validation Accuracy
 
-🔗 Repository: https://github.com/arsh-mohan6/Sign-Language-Detection
+### Tech
 
----
+TensorFlow • OpenCV • MediaPipe • CNN
 
-## 📧 Spam Email Detection
-
-Email classification system for detecting spam messages.
-
-- NLP Pipeline
-- Machine Learning Models
-- Text Classification
-
-🔗 Repository: https://github.com/arsh-mohan6/SPAM-EMAIL-DETECTION
+🔗 Repo: https://github.com/arsh-mohan6/Sign-Language-Detection
 
 ---
 
-## 🎙️ Speech Emotion Recognition
+## 🏠 House Price Prediction
 
-Current DRDO Internship Project
+Machine Learning regression pipeline using the Ames Housing Dataset.
 
-- Mel Spectrogram Features
-- MFCC Features
-- CNN + BiLSTM Architecture
-- Cross-Dataset Evaluation
+### Highlights
+
+- 1460 Properties
+- 81 Features
+- Feature Engineering
+- Model Comparison
+- Best R² Score: **0.89**
+
+### Tech
+
+Scikit-Learn • Pandas • NumPy • Machine Learning
+
+🔗 Repo: https://github.com/arsh-mohan6/House-Price-Prediction
+
+---
+
+## 🎙️ Speech Emotion Recognition (DRDO)
+
+Current Research Internship Project.
+
+### Datasets
+
+- RAVDESS
+- CREMA-D
+- TESS
+
+### Features
+
+- MFCC
+- Mel Spectrogram
+
+### Architecture
+
+CNN + BiLSTM + Attention
+
+### Research Focus
+
+- Speaker-Independent Evaluation
+- Cross-Dataset Testing
+- Model Generalization
 
 🚧 Work In Progress
 
 ---
 
-## 📊 GitHub Statistics
+# Problem Solving
+
+- 💻 250+ DSA Problems Solved
+- 🏆 Active on LeetCode, GeeksforGeeks and HackerRank
+- 📚 Strong Foundation in Data Structures and Algorithms
+
+LeetCode:
+https://leetcode.com/u/arsh_mohan/
+
+---
+
+# GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arsh-mohan6&show_icons=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arsh-mohan6&show_icons=true&theme=default"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsh-mohan6&layout=compact&theme=default"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsh-mohan6&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arsh-mohan6"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+# Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+📧 Email: arshmohan789@gmail.com
+
+🌐 Portfolio: https://arshmohannishantportfolio.vercel.app/
+
+💼 LinkedIn: https://www.linkedin.com/in/arsh-mohan-nishant-6704222a9/
+
+💻 GitHub: https://github.com/arsh-mohan6
+
+🧩 LeetCode: https://leetcode.com/u/arsh_mohan/
 
 ---
 
-<div align="center">
-
-### "Building intelligent systems one model at a time."
-
-</div>
+<p align="center">
+<b>"Building intelligent systems one model at a time."</b>
+</p>
