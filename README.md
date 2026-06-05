@@ -133,7 +133,7 @@ Enron Dataset • 33,716 Emails • DOI Indexed Publication
 
 ---
 
-## 🧠 Attention-Based BiLSTM Emotion Detection
+## Attention-Based BiLSTM Emotion Detection
 
 <p>
 Twitter Emotion Dataset • 416K+ Samples • 6 Emotion Classes
@@ -278,6 +278,7 @@ https://leetcode.com/u/arsh_mohan/
 # Connect With Me
 
 Email: arshmohan789@gmail.com
+
 Phone: 8052272634
 
 ---
