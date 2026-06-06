@@ -40,6 +40,7 @@ I enjoy transforming research ideas into practical AI applications and continuou
 - 📊 Cross-Dataset Emotion Recognition Evaluation
 - 🤖 Exploring LLMs & Prompt Engineering
 - 🚀 Building End-to-End AI Applications
+- IntelliView-An platform where we can give live interview and interact with AI-Recruiter 
 
 ---
 
