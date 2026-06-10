@@ -36,7 +36,7 @@ I enjoy transforming research ideas into practical AI applications and continuou
 # What I'm Working On
 
 - 🎙️ Speech Emotion Recognition (DRDO Internship)
-- 🧠 CNN + BiLSTM + Attention Architectures
+- 🧠 CNN + BiLSTM + Multihead Attention Architectures
 - 📊 Cross-Dataset Emotion Recognition Evaluation
 - 🤖 Exploring LLMs & Prompt Engineering
 - 🚀 Building End-to-End AI Applications
